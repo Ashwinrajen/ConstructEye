@@ -29,7 +29,13 @@ The full ConstructEye architecture includes:
 * ROS-based orchestration and services
 * Dockerized deployment
 
-![ConstructEye Architecture](images/ConstructEye_Architecture.png)
+<p align="left">
+  <img
+    src="images/ConstructEye_Architecture.png"
+    alt="ConstructEye Architecture"
+    width="600"
+  />
+</p>
 
 For detailed setup instructions, refer to the [ConstructEye\_Readme.pdf](./ConstructEye_Readme.pdf).
 

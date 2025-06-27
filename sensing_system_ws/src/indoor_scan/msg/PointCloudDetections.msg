@@ -1,0 +1,9 @@
+Header header
+string reference_file
+string prediction_file
+string[] reference_class_names
+int32[] reference_counts
+string[] reference_colors
+string[] prediction_class_names
+int32[] prediction_counts
+string[] prediction_colors

@@ -1,0 +1,1 @@
+/home/ashwin/Sensing_System_Project/pointnet/Semantic_Segmentation/pointnet/data/stanford_indoor3d/Area_1_conferenceRoom_1.npy

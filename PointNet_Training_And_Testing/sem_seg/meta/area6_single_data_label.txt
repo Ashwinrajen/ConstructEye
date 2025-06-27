@@ -1,0 +1,1 @@
+data/stanford_indoor3d/Area_6_office_18.npy
